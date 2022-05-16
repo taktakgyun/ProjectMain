@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProjectCore",
+    "\\ProjectCore\\WorkThreadManager"
   ],
-  "SelectedNode": "\\core",
+  "SelectedNode": "\\ProjectCore\\WorkThreadManager\\WorkResourceClass.cs",
   "PreviewInSolutionExplorer": false
 }
